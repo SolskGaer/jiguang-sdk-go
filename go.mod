@@ -1,3 +1,3 @@
-module github.com/calvinit/jiguang-sdk-go
+module github.com/SolskGaer/jiguang-sdk-go
 
-go 1.24
+go 1.20
