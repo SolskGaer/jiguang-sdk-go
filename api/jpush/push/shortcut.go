@@ -19,15 +19,15 @@
 package push
 
 import (
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/audience"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/callback"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/cid"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/liveactivity"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/message"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/notification"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/notification/hmos"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/options"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/send"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/audience"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/callback"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/cid"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/liveactivity"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/message"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/notification"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/notification/hmos"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/options"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/send"
 )
 
 // ↓↓↓ 这是为了方便 SDK 的使用者，提供了一些共享模型的别名定义。↓↓↓

@@ -21,8 +21,8 @@ package jums
 import (
 	"errors"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
-	"github.com/calvinit/jiguang-sdk-go/api/jums/callback"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jums/callback"
 )
 
 // # 获取配置好的回调接口服务

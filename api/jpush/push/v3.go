@@ -21,9 +21,9 @@ package push
 import (
 	"context"
 
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/file"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/image"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/schedule"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/file"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/image"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/schedule"
 )
 
 type (

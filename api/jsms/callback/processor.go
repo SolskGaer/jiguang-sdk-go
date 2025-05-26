@@ -21,8 +21,8 @@ package callback
 import (
 	"context"
 
-	"github.com/calvinit/jiguang-sdk-go/api/jsms/inquire"
-	"github.com/calvinit/jiguang-sdk-go/jiguang"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jsms/inquire"
+	"github.com/SolskGaer/jiguang-sdk-go/jiguang"
 )
 
 // ↓↓↓ 这是为了方便 SDK 的使用者，提供了一些共享模型的别名定义。↓↓↓

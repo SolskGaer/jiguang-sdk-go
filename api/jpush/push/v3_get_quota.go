@@ -25,7 +25,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
 )
 
 // # 厂商配额查询

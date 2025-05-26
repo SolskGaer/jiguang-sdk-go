@@ -21,7 +21,7 @@ package gpush
 import (
 	"context"
 
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/file"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/file"
 )
 
 type fileAPIv3 = file.APIv3

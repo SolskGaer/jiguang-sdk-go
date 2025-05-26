@@ -26,7 +26,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/calvinit/jiguang-sdk-go/jiguang"
+	"github.com/SolskGaer/jiguang-sdk-go/jiguang"
 )
 
 // Client 定义了一个用于发送 HTTP 请求的客户端接口。它被设计为与标准库的 http.Client 相兼容。

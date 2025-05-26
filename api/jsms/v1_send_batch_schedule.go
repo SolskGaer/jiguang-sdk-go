@@ -25,8 +25,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
-	"github.com/calvinit/jiguang-sdk-go/jiguang"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/jiguang"
 )
 
 // # 批量定时短信提交

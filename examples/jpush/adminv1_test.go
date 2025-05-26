@@ -22,7 +22,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/admin"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/admin"
 )
 
 func TestAdminAPIv1_CreateApp(t *testing.T) {

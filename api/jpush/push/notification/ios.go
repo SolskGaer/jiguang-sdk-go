@@ -18,7 +18,7 @@
 
 package notification
 
-import "github.com/calvinit/jiguang-sdk-go/api/jpush/push/notification/alert"
+import "github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/notification/alert"
 
 // # iOS 平台上的 APNs 通知
 //   - 详见 [developer.apple.com] 文档说明。

@@ -26,7 +26,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
 )
 
 // # 普通模板推送（VIP）

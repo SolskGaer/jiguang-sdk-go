@@ -26,8 +26,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/send"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/send"
 )
 
 // # 定时模板推送（VIP）

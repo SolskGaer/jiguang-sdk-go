@@ -26,7 +26,7 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
 )
 
 var voiceCodeRegex = regexp.MustCompile(`^\d{4,8}$`)

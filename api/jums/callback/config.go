@@ -22,7 +22,7 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/calvinit/jiguang-sdk-go/jiguang"
+	"github.com/SolskGaer/jiguang-sdk-go/jiguang"
 )
 
 const (

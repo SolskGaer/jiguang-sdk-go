@@ -23,8 +23,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
-	"github.com/calvinit/jiguang-sdk-go/api/jsms/inquire"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jsms/inquire"
 )
 
 // # 获取短信发送状态

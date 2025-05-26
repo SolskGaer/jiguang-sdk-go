@@ -18,7 +18,7 @@
 
 package message
 
-import "github.com/calvinit/jiguang-sdk-go/api/jpush/push"
+import "github.com/SolskGaer/jiguang-sdk-go/api/jpush/push"
 
 // # 【APP】消息
 type App = push.SendParam

@@ -24,8 +24,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/cid"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/cid"
 )
 
 // # 获取定时推送唯一标识 (CID)

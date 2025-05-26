@@ -25,8 +25,8 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/calvinit/jiguang-sdk-go/jiguang"
-	"github.com/calvinit/jiguang-sdk-go/third_party/gmsm/sm2"
+	"github.com/SolskGaer/jiguang-sdk-go/jiguang"
+	"github.com/SolskGaer/jiguang-sdk-go/third_party/gmsm/sm2"
 )
 
 const (

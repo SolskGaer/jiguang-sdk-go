@@ -23,10 +23,10 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/device/platform"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/schedule"
-	"github.com/calvinit/jiguang-sdk-go/jiguang"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/device/platform"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/schedule"
+	"github.com/SolskGaer/jiguang-sdk-go/jiguang"
 )
 
 func TestScheduleAPIv3_ScheduleSend(t *testing.T) {

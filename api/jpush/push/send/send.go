@@ -19,11 +19,11 @@
 package send
 
 import (
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/callback"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/liveactivity"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/message"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/notification"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/options"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/callback"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/liveactivity"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/message"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/notification"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/options"
 )
 
 // # 推送参数

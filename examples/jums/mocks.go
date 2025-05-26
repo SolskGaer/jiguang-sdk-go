@@ -19,12 +19,12 @@
 package jums
 
 import (
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/device/platform"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/notification"
-	"github.com/calvinit/jiguang-sdk-go/api/jums/audience"
-	"github.com/calvinit/jiguang-sdk-go/api/jums/message"
-	"github.com/calvinit/jiguang-sdk-go/jiguang"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/device/platform"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/notification"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jums/audience"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jums/message"
+	"github.com/SolskGaer/jiguang-sdk-go/jiguang"
 )
 
 func mockAudience() *audience.Audience {

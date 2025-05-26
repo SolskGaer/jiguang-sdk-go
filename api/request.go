@@ -25,7 +25,7 @@ import (
 	"mime/multipart"
 	"net/http"
 
-	sdk "github.com/calvinit/jiguang-sdk-go"
+	sdk "github.com/SolskGaer/jiguang-sdk-go"
 )
 
 // 极光 REST API 的 HTTP 请求原始请求封装。

@@ -25,7 +25,7 @@ import (
 	"net/http"
 	"reflect"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
 )
 
 // # 更新图片（文件方式）

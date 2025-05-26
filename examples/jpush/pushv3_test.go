@@ -24,11 +24,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/device/platform"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/notification/alert"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/notification/style"
-	"github.com/calvinit/jiguang-sdk-go/jiguang"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/device/platform"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/notification/alert"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/notification/style"
+	"github.com/SolskGaer/jiguang-sdk-go/jiguang"
 )
 
 func TestPushAPIv3_Send(t *testing.T) {

@@ -21,7 +21,7 @@ package api
 import (
 	"strconv"
 
-	"github.com/calvinit/jiguang-sdk-go/jiguang"
+	"github.com/SolskGaer/jiguang-sdk-go/jiguang"
 )
 
 var (

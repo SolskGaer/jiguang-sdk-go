@@ -22,7 +22,7 @@ import (
 	"context"
 	"encoding/json"
 
-	"github.com/calvinit/jiguang-sdk-go/jiguang"
+	"github.com/SolskGaer/jiguang-sdk-go/jiguang"
 )
 
 // 回调数据列表处理器。

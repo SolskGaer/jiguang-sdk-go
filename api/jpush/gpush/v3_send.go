@@ -26,8 +26,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push"
 )
 
 // # 分组推送

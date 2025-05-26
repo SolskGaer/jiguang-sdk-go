@@ -22,7 +22,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/image"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/image"
 )
 
 func TestImageAPIv3_AddImageByUrl(t *testing.T) {

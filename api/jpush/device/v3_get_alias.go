@@ -24,9 +24,9 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/device/platform"
-	"github.com/calvinit/jiguang-sdk-go/jiguang"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/device/platform"
+	"github.com/SolskGaer/jiguang-sdk-go/jiguang"
 )
 
 // # 查询别名

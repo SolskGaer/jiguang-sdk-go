@@ -22,10 +22,10 @@ import (
 	"encoding/base64"
 	"errors"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
 
-	"github.com/calvinit/jiguang-sdk-go/api/jums/callback"
-	"github.com/calvinit/jiguang-sdk-go/jiguang"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jums/callback"
+	"github.com/SolskGaer/jiguang-sdk-go/jiguang"
 )
 
 // 用于构建和配置 JUMS API v1 访问客户端的构建器。

@@ -22,8 +22,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
-	"github.com/calvinit/jiguang-sdk-go/api/jums"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jums"
 )
 
 var umsAPIv1 jums.APIv1 // 极光统一消息 - JUMS API v1

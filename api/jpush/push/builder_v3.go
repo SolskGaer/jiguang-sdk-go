@@ -22,11 +22,11 @@ import (
 	"encoding/base64"
 	"errors"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/file"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/image"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/schedule"
-	"github.com/calvinit/jiguang-sdk-go/jiguang"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/file"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/image"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/schedule"
+	"github.com/SolskGaer/jiguang-sdk-go/jiguang"
 )
 
 // 用于构建和配置 Push API v3 访问客户端的构建器。

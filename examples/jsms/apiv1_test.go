@@ -23,8 +23,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/calvinit/jiguang-sdk-go/api/jsms"
-	"github.com/calvinit/jiguang-sdk-go/jiguang"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jsms"
+	"github.com/SolskGaer/jiguang-sdk-go/jiguang"
 )
 
 func TestAPIv1_CreateSign(t *testing.T) {

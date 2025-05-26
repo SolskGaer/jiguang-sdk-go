@@ -26,7 +26,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
 )
 
 // # 删除设备的别名

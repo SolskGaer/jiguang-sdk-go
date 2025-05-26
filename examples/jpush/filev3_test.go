@@ -22,8 +22,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/file"
-	"github.com/calvinit/jiguang-sdk-go/jiguang"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/file"
+	"github.com/SolskGaer/jiguang-sdk-go/jiguang"
 )
 
 func TestFileAPIv3_UploadFileForAlias(t *testing.T) {

@@ -26,7 +26,7 @@ import (
 	"reflect"
 	"strconv"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
 )
 
 // # 新增图片（文件方式）

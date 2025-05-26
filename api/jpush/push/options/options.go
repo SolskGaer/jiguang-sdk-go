@@ -18,7 +18,7 @@
 
 package options
 
-import "github.com/calvinit/jiguang-sdk-go/api/jpush/push/notification/style"
+import "github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/notification/style"
 
 // # 推送可选项
 //

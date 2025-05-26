@@ -18,7 +18,7 @@
 
 package send
 
-import "github.com/calvinit/jiguang-sdk-go/api/jpush/push/options"
+import "github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/options"
 
 // # 模板参数
 //

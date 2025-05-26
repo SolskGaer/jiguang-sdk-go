@@ -24,7 +24,7 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
 )
 
 // # 更新图片（URL 方式）

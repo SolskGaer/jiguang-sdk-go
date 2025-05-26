@@ -22,9 +22,9 @@ import (
 	"encoding/base64"
 	"errors"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/file"
-	"github.com/calvinit/jiguang-sdk-go/jiguang"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/file"
+	"github.com/SolskGaer/jiguang-sdk-go/jiguang"
 )
 
 // 用于构建和配置 Group Push API v3 访问客户端的构建器。

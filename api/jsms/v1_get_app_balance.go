@@ -23,7 +23,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
 )
 
 // # 应用余量查询

@@ -22,7 +22,7 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/calvinit/jiguang-sdk-go/api/jums"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jums"
 )
 
 type callbackTargetValidDataProcessor struct{}

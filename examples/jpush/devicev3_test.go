@@ -23,9 +23,9 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/device"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/device/platform"
-	"github.com/calvinit/jiguang-sdk-go/jiguang"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/device"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/device/platform"
+	"github.com/SolskGaer/jiguang-sdk-go/jiguang"
 )
 
 func TestDeviceAPIv3_GetDevice(t *testing.T) {

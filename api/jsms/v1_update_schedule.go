@@ -24,7 +24,7 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
 )
 
 // # 单条定时短信修改

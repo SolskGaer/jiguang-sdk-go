@@ -24,9 +24,9 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/send"
-	"github.com/calvinit/jiguang-sdk-go/jiguang"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/send"
+	"github.com/SolskGaer/jiguang-sdk-go/jiguang"
 )
 
 // # 定时推送（创建定时任务）

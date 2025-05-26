@@ -19,9 +19,9 @@
 package notification
 
 import (
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/notification/alert"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/notification/style"
-	"github.com/calvinit/jiguang-sdk-go/jiguang"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/notification/alert"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/notification/style"
+	"github.com/SolskGaer/jiguang-sdk-go/jiguang"
 )
 
 // # Android 平台上的通知

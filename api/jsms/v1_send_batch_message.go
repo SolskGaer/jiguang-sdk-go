@@ -25,7 +25,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
 )
 
 // # 发送批量模板短信

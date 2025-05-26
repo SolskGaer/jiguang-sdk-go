@@ -26,11 +26,11 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/callback"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/message"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/notification"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/push/options"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/callback"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/message"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/notification"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/push/options"
 )
 
 // # 批量单推（Registration ID 方式）

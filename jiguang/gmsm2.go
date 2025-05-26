@@ -25,7 +25,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/calvinit/jiguang-sdk-go/third_party/gmsm/sm2"
+	"github.com/SolskGaer/jiguang-sdk-go/third_party/gmsm/sm2"
 )
 
 const (

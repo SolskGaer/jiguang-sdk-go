@@ -27,7 +27,7 @@ import (
 	"reflect"
 	"strconv"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
 )
 
 // # 上传文件 (Alias)

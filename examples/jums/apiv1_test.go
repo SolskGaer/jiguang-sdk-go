@@ -23,11 +23,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/device/platform"
-	"github.com/calvinit/jiguang-sdk-go/api/jums"
-	"github.com/calvinit/jiguang-sdk-go/api/jums/audience"
-	"github.com/calvinit/jiguang-sdk-go/api/jums/message"
-	"github.com/calvinit/jiguang-sdk-go/jiguang"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/device/platform"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jums"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jums/audience"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jums/message"
+	"github.com/SolskGaer/jiguang-sdk-go/jiguang"
 )
 
 func TestAPIv1_BroadcastSend(t *testing.T) {

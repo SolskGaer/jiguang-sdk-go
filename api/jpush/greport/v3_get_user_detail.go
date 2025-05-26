@@ -26,9 +26,9 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/calvinit/jiguang-sdk-go/api"
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/report"
-	"github.com/calvinit/jiguang-sdk-go/jiguang"
+	"github.com/SolskGaer/jiguang-sdk-go/api"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/report"
+	"github.com/SolskGaer/jiguang-sdk-go/jiguang"
 )
 
 // # 用户统计（VIP）

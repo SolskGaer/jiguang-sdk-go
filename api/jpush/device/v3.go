@@ -21,7 +21,7 @@ package device
 import (
 	"context"
 
-	"github.com/calvinit/jiguang-sdk-go/api/jpush/device/platform"
+	"github.com/SolskGaer/jiguang-sdk-go/api/jpush/device/platform"
 )
 
 // # Device API v3
